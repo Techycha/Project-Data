@@ -1,0 +1,48 @@
+ul
+{
+    font-size: 20px;
+    margin-left: 600px;
+    font-family: Trebuchet MS;
+}
+h1
+{
+    font-size: 40px; 
+    font-family: Comic Sans MS;
+    margin-left: 300px;
+}
+h2
+{
+    font-size: 30px;
+    margin-left: 600px;
+}
+body
+{
+    background-image: url("image4.jpg");
+}
+a
+{
+    border: 1px black solid;
+    border-radius: 5px;
+    background-color: lavender;
+}
+a:visited 
+{
+    color: rgb(4, 0, 255); 
+}
+img
+{
+    font-size: 10px;
+    margin-left: 10px;
+}
+input
+{
+    font-size: 20px;
+    margin-left: 600px;
+    font-family: Trebuchet MS;
+}
+input
+{
+border: 1px black solid;
+    border-radius: 5px;
+    background-color: lavender;
+}

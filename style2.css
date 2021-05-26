@@ -1,0 +1,27 @@
+ul
+{
+    font-size: 20px;
+    margin-left: 600px;
+    font-family: Trebuchet MS;
+}
+h1
+{
+    font-size: 40px; 
+    font-family: Comic Sans MS;
+    margin-left: 300px;
+}
+h2
+{
+    font-size: 30px;
+    margin-left: 600px;
+}
+body
+{
+    background-image: url("image4.jpg");
+}
+img
+{
+    font-size: 10px;
+    margin-left: 50px;
+    width: 130px;
+}
